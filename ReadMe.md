@@ -1,0 +1,1 @@
+Tutorial to go with this repo can be found at: https://medium.com/@applification/lottie-react-native-tutorial-162d91840720
